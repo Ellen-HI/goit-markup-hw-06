@@ -128,7 +128,7 @@ button {
 
 
     .link {
-
+        position: relative;
         display: block;
         color: #2E2F42;
         font-weight: 500;
@@ -143,10 +143,6 @@ button {
 
     }
 
-    .link.current {
-        position: relative;
-    }
-
     .link:hover,
     .link:focus,
     .address-link:hover,
@@ -155,7 +151,7 @@ button {
         color: #404BBF;
     }
 
-    .link.current::after {
+    .link::after {
         content: "";
         position: absolute;
         left: 0;
