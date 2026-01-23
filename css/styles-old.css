@@ -33,67 +33,7 @@
 
 
 /*----------------------------------------------------Footer----------------------------------------------------*/
-.footer {
 
-    padding: 100px 0;
-}
-
-.container-footer {}
-
-.container-footer-social {
-    width: 208px;
-}
-
-.container-footer-logo {
-    margin-right: 120px;
-}
-
-.footer-logo {
-    text-align: center;
-}
-
-.footer-text {
-    width: 264px;
-}
-
-
-
-.footer-social-media {
-
-    margin-bottom: 16px;
-    width: 208px;
-}
-
-.container-footer {
-    display: flex;
-    align-items: baseline;
-}
-
-.footer-subscribe {
-    margin-left: auto;
-
-}
-
-.footer-form {
-    display: flex;
-    align-items: center;
-}
-
-.footer-input {
-
-    padding-left: 16px;
-}
-
-
-
-
-
-
-.footer-submit-button {
-
-    margin-left: 24px;
-
-}
 
 
 
